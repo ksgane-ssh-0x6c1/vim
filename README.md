@@ -1,2 +1,2 @@
 # vim
-learning vim.
+learning vim - vi improved.
